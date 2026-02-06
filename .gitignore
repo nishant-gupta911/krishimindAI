@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.log
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
+models/*.pkl
+models/*.joblib
+*.ipynb_checkpoints
+.pytest_cache/
